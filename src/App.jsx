@@ -1,5 +1,5 @@
 import React from 'react'
-import { HashRouter,Route,Routes} from 'react-router-dom';
+import { HashRouter,Route,Routes,Router} from 'react-router-dom';
 import Details from './componentss/Details';
 import User from './componentss/User';
 
